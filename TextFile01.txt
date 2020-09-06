@@ -1,6 +1,1 @@
 This is textfile 01
-I want to jog later - Ben
-This is the 2nd line.
-Hello! I'm Anne
-and I'm Ben!
-I want to build a new game - Anne
