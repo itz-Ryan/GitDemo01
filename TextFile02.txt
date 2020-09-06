@@ -1,1 +1,2 @@
 Another text file.
+This is a bug fix for bug 01 - Ben.
